@@ -4,7 +4,7 @@
 ## Hi! I am Eliott :wave:
 
 :hammer: Co-Founder and Director of the [GRI](https://governanceresearch.institute/)  
-:computer: Providing Blochain Consulting Services via my company [Nuclei Studio](https://nuclei.studio)  
+:computer: Providing [consultancy / development services](https://nuclei.studio)  
 :construction: I build DAOs during my weekends  
 :heart: Blockchain, Security and Cryptography  
 :octocat: My octocat is fueled with matcha tea  
