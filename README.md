@@ -3,8 +3,8 @@
 
 ## Hi! I am Eliott :wave:
 
-:hammer: Founder and Director of the [GRI](https://governanceresearch.institute/)  
-:computer: Head of Blockchain at [Nodle](https://nodle.io)  
+:hammer: Co-Founder and Director of the [GRI](https://governanceresearch.institute/)  
+:computer: Providing Blochain Consulting Services via my company [Nuclei Studio](https://nuclei.studio)  
 :construction: I build DAOs during my weekends  
 :heart: Blockchain, Security and Cryptography  
 :octocat: My octocat is fueled with matcha tea  
