@@ -3,8 +3,7 @@
 
 ## Hi! I am Eliott :wave:
 
-:hammer: Co-Founder and Director of the [GRI](https://governanceresearch.institute/)  
-:computer: Providing [consultancy services](https://nuclei.studio)  
-:construction: I build DAOs during my weekends  
-:heart: Blockchain, Security and Cryptography  
-:octocat: My octocat is fueled with matcha tea  
+:zap: Running on matcha tea  
+:eyes: I love cryptography, space, and more  
+:bird: Follow me on [Twitter](https://twitter.com/eliottteiss)  
+:ghost: More links and details [on my website](https://eliottteissonniere.com)
