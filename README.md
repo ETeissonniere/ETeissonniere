@@ -3,7 +3,7 @@
 
 ## Hi! I am Eliott :wave:
 
-:zap: Running on matcha tea  
-:eyes: I love cryptography, space, and more  
-:bird: Follow me on [Twitter](https://twitter.com/eliottteiss)  
-:ghost: More links and details [on my website](https://eliottteissonniere.com)
+🍵 Running on matcha tea  
+👀 I love cryptography, space, and more  
+🐦 Follow me on [Twitter](https://twitter.com/eliottteiss)  
+👻 More links and details [here](https://eliottteissonniere.com)
