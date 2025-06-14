@@ -1,8 +1,7 @@
 ## Hi! I am Eliott :wave:
 
-🏋️ I am CTO and CoFounder at @NodleCode  
-🤝 I advise and mentor tech and crypto entrepreneurs  
-🍵 Running on matcha tea  
 👀 I love hard tech, cryptography, space, and more  
+🤖 Currently building robots  
+🍵 Running on matcha tea  
 🐦 Follow me on [Twitter](https://twitter.com/eliottteiss)  
 👻 More links and details [here](https://eliottteissonniere.com)
